@@ -1,0 +1,12 @@
+class: "GradeClassifierTest"
+classifierModule: "mira"
+classifierClass: "MiraClassifier"
+
+max_iterations: "5"
+
+datasetName: "bigDigitData"
+
+# our solution: 87%
+exactOutput: "False"
+accuracyScale: "6"
+accuracyThresholds: "80"

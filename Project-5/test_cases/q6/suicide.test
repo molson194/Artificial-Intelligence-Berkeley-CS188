@@ -1,0 +1,14 @@
+class: "GradeClassifierTest"
+classifierModule: "perceptron_pacman"
+classifierClass: "PerceptronClassifierPacman"
+
+automaticTuning: "True"
+featureFunction: "enhancedFeatureExtractorPacman"
+
+max_iterations: "4"
+
+datasetName: "suicideData"
+
+exactOutput: "False"
+accuracyScale: "2"
+accuracyThresholds: "80"

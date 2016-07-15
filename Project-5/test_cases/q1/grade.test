@@ -1,0 +1,14 @@
+class: "GradeClassifierTest"
+classifierModule: "perceptron"
+classifierClass: "PerceptronClassifier"
+
+max_iterations: "4"
+
+datasetName: "bigDigitData"
+
+# our solution: 75%
+exactOutput: "False"
+accuracyScale: "4"
+accuracyThresholds: "70"
+
+
